@@ -1,0 +1,4 @@
+Version 1.0, 4/2-2012
+    First version of the class includes:
+    - A function for clean up in a string.
+    - A function to get a random string.
